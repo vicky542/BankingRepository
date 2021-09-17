@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\bin\Debug\BankLibrary.Test.dll
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\bin\Debug\BankLibrary.Test.pdb
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\bin\Debug\BankLibrary.dll
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\bin\Debug\BankLibrary.pdb
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\obj\Debug\BankLibrary.Test.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\obj\Debug\BankLibrary.Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\obj\Debug\BankLibrary.Test.csproj.CopyComplete
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\obj\Debug\BankLibrary.Test.dll
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary.Test\obj\Debug\BankLibrary.Test.pdb

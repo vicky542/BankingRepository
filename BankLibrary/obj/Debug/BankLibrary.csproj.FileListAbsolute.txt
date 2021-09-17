@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary\bin\Debug\BankLibrary.dll
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary\bin\Debug\BankLibrary.pdb
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary\obj\Debug\BankLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary\obj\Debug\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary\obj\Debug\BankLibrary.dll
+C:\Users\Administrator\source\repos\JenkinsCIDemo\BankLibrary\obj\Debug\BankLibrary.pdb
